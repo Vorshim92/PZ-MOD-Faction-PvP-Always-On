@@ -1,0 +1,6 @@
+version=1
+id=3239389581
+title=Faction PvP Always On
+description=Questa mod impedisce a chi fa parte di una fazione di disabilitare il pvp tra fazioni.
+tags=Build 41;Multiplayer
+visibility=public

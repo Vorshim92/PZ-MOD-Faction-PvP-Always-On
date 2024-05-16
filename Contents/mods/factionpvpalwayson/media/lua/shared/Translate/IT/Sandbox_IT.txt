@@ -1,0 +1,6 @@
+Sandbox_IT = {
+	Sandbox_FactionPvP = "Faction PvP Always On",
+    Sandbox_FactionPvPAlwayson = "Enable Faction PvP Always",
+	Sandbox_FactionPvP_Always_on_tooltip = "Attiva la possibilità di checkare la tickbox PvP nel pannello Faction del client",
+
+}

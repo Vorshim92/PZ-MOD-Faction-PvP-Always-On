@@ -1,0 +1,9 @@
+VERSION = 1,
+
+option FactionPvP.Alwayson
+{
+	type = boolean,
+	default = true,
+	page = FactionPvP,
+	translation = FactionPvPAlwayson,
+}

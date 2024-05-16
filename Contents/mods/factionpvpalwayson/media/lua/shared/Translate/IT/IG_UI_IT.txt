@@ -1,0 +1,7 @@
+IGUI_IT = {
+
+    IGUI_Headshot = "Headshot!",
+    IGUI_Bodyshot = "Body!",
+    IGUI_Footshot = "Foot!",
+
+}
